@@ -1,5 +1,5 @@
 # A Tidy Village using OpenGL
-Assalamu Alaikum (السلام عليكم). This repository contains an OpenGL project that based on a tidy village. On one side of which there will be a railway line and a river. The entire project is written in C++.
+Greetings! This repository contains an OpenGL project that based on a tidy village. On one side of which there will be a railway line and a river. The entire project is written in C++.
 
 # Input & Output
 I used Codeblocks for completing all the projects. Download the Codeblocks and the OpenGL libraries setup files from the above Installation folder.
